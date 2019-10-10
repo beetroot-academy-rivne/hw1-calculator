@@ -55,3 +55,4 @@ if oper == ('x^y'):
     c = a ** b
     c = str(c)
     print('Stepin chusla: ' + c)
+print("First version calculator")
