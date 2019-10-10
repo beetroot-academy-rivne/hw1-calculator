@@ -35,4 +35,4 @@ if a=='+' or a=='-' or a=='*' or a=='/' :
 	print ('Result', b, a, c, '=', d)
 else :
 	print('operation "',a,'" is not supported for now')
-#asda
+#asd
